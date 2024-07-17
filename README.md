@@ -13,7 +13,7 @@
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/rivalz-fragmentz-claimer-bot.git
-   cd rivalz-fragmentz-claimer-bot
+   cd rivalz
 2. Install Dependencies
    ```bash
    npm install
