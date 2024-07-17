@@ -7,10 +7,6 @@
 - Klaim token Fragmentz secara otomatis menggunakan private keys
 - Menampilkan detail transaksi klaim untuk setiap akun
 
-## Prasyarat
-- Android Studio
-- Perangkat atau emulator Android untuk menjalankan aplikasi
-
 ## Instalasi
 1. Clone repository ini:
    ```bash
