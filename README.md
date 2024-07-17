@@ -1,5 +1,7 @@
 # Rivalz Fragmentz Claimer Bot
 
+- Join [Rivalz](https://rivalz.ai?r=beeetmut)
+
 ## Fitur
 - Cek saldo akun berdasarkan private keys
 - Klaim token Fragmentz secara otomatis menggunakan private keys
