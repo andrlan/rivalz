@@ -1,0 +1,27 @@
+{
+  "name": "rivalz",
+  "version": "1.0.0",
+  "description": "Bot untuk mengklaim token Fragmentz secara otomatis pada jaringan Rivalz",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrlan/rivalz"
+  },
+  "keywords": [
+    "rivalz",
+    "fragmentz",
+    "claimer",
+    "bot",
+    "crypto"
+  ],
+  "author": "Monyet Nyebrang",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "moment": "^2.29.1",
+    "readline-sync": "^1.4.10"
+  }
+}
